@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi, I'm Shashank Savarkar</h1>
+<h1 align="center">Hi, I'm Shashank Savarkar</h1>
 <h3 align="center">A passionate MERN stack developer from Pune, Maharashtra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanksavarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shashanksavarkar" /> </p>
@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanksavarkar&show_icons=true&locale=en" alt="shashanksavarkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksavarkar&" alt="shashanksavarkar" /></p>
- -->
+
