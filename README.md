@@ -7,7 +7,7 @@
 Building production-grade AI applications, developer tools, and modern web experiences.
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Docker+%7C+Selenium;Always+learning+something+new+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Python+%7C+Docker+%7C+Selenium;Always+learning+something+new"/>
 </p>
 
 <p>
@@ -131,7 +131,7 @@ Official robotics competition website built with Next.js.
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shashanksavarkar&theme=github-dark&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=shashanksavarkar&theme=github-dark&hide_border=true"/>
 
 </p>
 
