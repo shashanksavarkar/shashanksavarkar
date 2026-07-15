@@ -1,33 +1,221 @@
-<h1 align="center">Hi, I'm Shashank Savarkar</h1>
-<h3 align="center">A passionate MERN stack developer from Pune, Maharashtra</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanksavarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shashanksavarkar" /> </p>
+# 👋 Hi, I'm Shashank Savarkar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashanksavarkar" alt="shashanksavarkar" /></a> </p>
+### AI & Full Stack Developer | ECE Student | Building Production-Grade AI Systems
 
-<p align="left"> <a href="https://twitter.com/stfushashank" target="blank"><img src="https://img.shields.io/twitter/follow/stfushashank?logo=twitter&style=for-the-badge" alt="stfushashank" /></a> </p>
-
-- 🔭 I’m currently working on [Robonity](https://github.com/shashanksavarkar/robonity-v1-main.git)
-
-- 🌱 I’m currently learning **MySQL, numpy, pandas, Machine Learning**
-
-- 💬 Ask me about **JS, react, deployment**
-
-- 📫 How to reach me **shashanksavarkar@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stfushashank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stfushashank" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashanksavarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashanksavarkar" height="30" width="40" /></a>
-<a href="https://instagram.com/shashanksavarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashanksavarkar" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/shashanksavarkar">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Automation+%7C+LLMs+%7C+Docker+%7C+Selenium;Always+Learning+Something+New+🚀" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/shashanksavarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shashanksavarkar@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shashanksavarkar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanksavarkar&show_icons=true&locale=en&layout=compact" alt="shashanksavarkar" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashanksavarkar&show_icons=true&locale=en" alt="shashanksavarkar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanksavarkar&" alt="shashanksavarkar" /></p> -->
+# 💫 About Me
 
+🎓 Electronics & Communication Engineering Student
+
+💻 Passionate about **Artificial Intelligence**, **Full Stack Development**, and **Automation**
+
+🚀 I enjoy building scalable web applications, AI-powered developer tools, and automation systems.
+
+🌱 Currently exploring
+
+- Machine Learning
+- LLM Engineering
+- Agentic AI
+- Data Science
+- System Design
+
+---
+
+# 🚀 Current Projects
+
+## 🤖 AI Assessment Automated Testing Framework
+
+An intelligent coding assessment automation platform powered by
+
+- Selenium
+- NVIDIA NIM
+- Docker
+- Python
+
+Features
+
+- Automated coding solution generation
+- AI-powered MCQ solving
+- Browser automation
+- Self-healing workflow
+- Output validation
+
+---
+
+## 🤖 Robonity
+
+A robotics community platform built for students.
+
+Features
+
+- Community
+- Events
+- Projects
+- Resources
+- Gallery
+- Authentication
+
+Built using
+
+- React
+- Node.js
+- MongoDB
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,mysql,mongodb" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,django,flask" />
+</p>
+
+## AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Currently Learning**
+
+- Machine Learning
+- NumPy
+- Pandas
+- LLM Engineering
+- Prompt Engineering
+
+---
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+# 📌 Featured Repositories
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Assessment Automated Testing | AI-powered coding assessment automation platform |
+| 🤖 Robonity | Robotics Community Platform |
+| 🌐 RoboWars Website | Robotics competition website |
+| ⚡ Full Stack Applications | MERN & Next.js Projects |
+| 🤖 AI Experiments | AI & LLM Projects |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashanksavarkar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksavarkar&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shashanksavarkar&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashanksavarkar&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashanksavarkar&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌟 What I'm Working On
+
+- 🚀 Production-grade AI Systems
+- 🤖 Agentic AI
+- 🧠 Machine Learning
+- 🌐 Next.js Applications
+- ⚡ Full Stack Projects
+- 🐳 Dockerized Applications
+- 🔥 Automation Frameworks
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:shashanksavarkar@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shashanksavarkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shashanksavarkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Building software that solves real-world problems through AI and modern technologies."
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
