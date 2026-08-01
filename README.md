@@ -57,43 +57,6 @@ Building production-grade AI applications, developer tools, and modern web exper
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shashanksavarkar&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-grade AI applications
-- 🤖 Learn advanced Machine Learning
-- 📚 Contribute to Open Source
-- 🌐 Build scalable full-stack products
-- ⚡ Explore Agentic AI Systems
-- 🧠 Strengthen System Design skills
-
----
-
-# 📌 Pinned Repositories
-
-⭐ AI Assessment Automated Testing Framework
-
-⭐ Robonity
-
-⭐ RoboWars Website
-
-⭐ Best Next.js Project
-
-⭐ Best AI Project
-
-⭐ Best Full Stack Project
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
@@ -111,13 +74,3 @@ Building production-grade AI applications, developer tools, and modern web exper
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 💡 Building software that solves real-world problems through AI and modern technologies.
-
-If you find my work interesting, consider ⭐ starring a repository!
-
-</div>
