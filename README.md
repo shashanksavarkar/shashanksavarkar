@@ -33,14 +33,6 @@ Building production-grade AI applications, developer tools, and modern web exper
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shashanksavarkar&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanksavarkar&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="60%" src="https://streak-stats.demolab.com?user=shashanksavarkar&theme=github-dark&hide_border=true"/>
 
 </p>
